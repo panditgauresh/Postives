@@ -1,3 +1,4 @@
+Copyright by Gauresh Pandit
 The code is written in python with system calls run from python itself. The code is expected to be run on linux as it uses linux commands internally. To search for positives a folder called 'positive' should be created with the .log files which contain the packet traces of headers. The rules for each files should be present in '<head>_rules' format which will be the rules for all the postive searches to be made for files starting with <head>.
 
 To run the positives.py file following syntax should be used :-
